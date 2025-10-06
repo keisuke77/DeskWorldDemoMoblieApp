@@ -1,9 +1,9 @@
 const cacheName = "DreamCreater-DeskWorld-0.1.0";
 const contentToCache = [
     "Build/Web製品版.loader.js",
-    "Build/Web製品版.framework.js.br",
-    "Build/Web製品版.data.br",
-    "Build/Web製品版.wasm.br",
+    "Build/Web製品版.framework.js.gz",
+    "Build/Web製品版.data.gz",
+    "Build/Web製品版.wasm.gz",
     "TemplateData/style.css"
 
 ];
