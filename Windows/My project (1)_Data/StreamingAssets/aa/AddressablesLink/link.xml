@@ -1,0 +1,46 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ChatCharactor" preserve="all" />
+    <type fullname="ChatData" preserve="all" />
+    <type fullname="ClearData" preserve="all" />
+    <type fullname="CombatCharactor" preserve="all" />
+    <type fullname="HissatuWazaData" preserve="all" />
+    <type fullname="ItemData" preserve="all" />
+    <type fullname="Quest" preserve="all" />
+    <type fullname="SequenceBattleData" preserve="all" />
+    <type fullname="waza" preserve="all" />
+    <type fullname="WazaHpChange" preserve="all" />
+    <type fullname="BonusItem" preserve="nothing" serialized="true" />
+    <type fullname="DelayEvents" preserve="nothing" serialized="true" />
+    <type fullname="Emotion" preserve="nothing" serialized="true" />
+    <type fullname="Group" preserve="nothing" serialized="true" />
+    <type fullname="KeyEvent" preserve="nothing" serialized="true" />
+    <type fullname="MotionClips" preserve="nothing" serialized="true" />
+    <type fullname="SelectionPhase" preserve="nothing" serialized="true" />
+    <type fullname="StatusSet" preserve="nothing" serialized="true" />
+    <type fullname="WazaHpChangeEntry" preserve="nothing" serialized="true" />
+    <type fullname="objAnimation" preserve="nothing" serialized="true" />
+    <type fullname="phase" preserve="nothing" serialized="true" />
+    <type fullname="waza/wazas" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+  </assembly>
+  <assembly fullname="TNRD.SerializableInterface">
+    <type fullname="TNRD.SerializableInterface`1" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
